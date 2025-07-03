@@ -11,3 +11,4 @@ Welcome! This assistant is designed to help rural students prepare for NEET with
 
 st.image("https://cdn.pixabay.com/photo/2016/03/31/20/56/biology-1299823_1280.png", use_column_width=True)
 st.info("Use the sidebar to navigate to Study Materials or Ask Doubts.")
+st.write(""" Hello Aspirants.""")
